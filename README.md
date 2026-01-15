@@ -65,7 +65,7 @@ Website and admin panel for managing students and courses.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vishwas29  
-- 📧 Email: your-email@example.com
+- 📧 Email: 852006rahul@gmail.com
 
 ---
 
